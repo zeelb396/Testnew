@@ -1,0 +1,13 @@
+21:00:21.209 [main] INFO  testCases.BaseClass - logout
+10:04:15.850 [TestNG-tests-2] INFO  testCases.BaseClass - Starting Testcase
+10:04:15.879 [TestNG-tests-1] INFO  testCases.BaseClass - Starting Testcase
+10:04:16.330 [TestNG-tests-1] INFO  testCases.BaseClass - Clicked
+10:04:16.425 [TestNG-tests-2] INFO  testCases.BaseClass - Clicked
+10:04:17.007 [TestNG-tests-1] INFO  testCases.BaseClass - Clicked on registered
+10:04:17.239 [TestNG-tests-2] INFO  testCases.BaseClass - Clicked on registered
+10:04:19.393 [TestNG-tests-1] INFO  testCases.BaseClass - logout
+10:04:19.578 [TestNG-tests-2] INFO  testCases.BaseClass - logout
+10:04:21.421 [TestNG-tests-3] INFO  testCases.BaseClass - Starting Testcase
+10:04:21.776 [TestNG-tests-3] INFO  testCases.BaseClass - Clicked
+10:04:22.398 [TestNG-tests-3] INFO  testCases.BaseClass - Clicked on registered
+10:04:23.624 [TestNG-tests-3] INFO  testCases.BaseClass - logout
